@@ -1,0 +1,57 @@
+body {
+    font-weight: lighter;
+    font-size: 20px
+}
+
+.container {
+    text-align: center;
+    margin: auto
+}
+
+.header {
+    width: 50%
+}
+
+.list {
+    width: 50%;
+}
+
+.new-todo-input {
+    height: 24px;
+    width: 300px;
+}
+
+input {
+    border: 1px solid gray;
+    -webkit-border-radius: 3px;
+    -moz-border-radius:5px
+}
+
+button {
+    background-color: white;
+    border: 1px solid gray;
+    -webkit-border-radius: 5px;
+    -moz-border-radius:5px;
+    font-size: 16px;
+    font-weight: lighter
+}
+
+.btn-add {
+    height: 28px;
+    width: 80px;
+}
+
+.btn-del {
+    margin-left: 20px;
+    background-color: red;
+    color: white
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: lighter
+}
+
+h3 {
+    font-weight: 200
+}
